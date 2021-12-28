@@ -1,7 +1,7 @@
 .main{
 	
 	padding: 2%;
-	height: 350px;
+	height: 450px;
 	background: #6FE815;
 	border: 4px solid #ddd;
 	border-radius: 5%;
@@ -12,6 +12,26 @@
 	width: 90%;
 	height: 500px;
 }
+.child0{
+	width: 20%;
+	float: left;
+	padding: 2%;
+	height: 200px;
+	background: #9E817C;
+	border: 4px solid #ddd;
+	border-radius: 8%;
+}
+.child01{
+	width: 80%;
+	float: left;
+	padding: 3%;
+	height: 200px;
+	background: #DC5E48;
+	border: 4px solid #ddd;
+	border-radius: 4%;
+
+}
+
 .child1{
 	width: 20%;
 	float: left;
@@ -31,6 +51,26 @@
 	border-radius: 4%;
 
 }
+.child05{
+	width: 20%;
+	float: left;
+	padding: 2%;
+	height: 900px;
+	background: #9E817C;
+	border: 4px solid #ddd;
+	border-radius: 8%;
+}
+.child15{
+	width: 80%;
+	float: left;
+	padding: 3%;
+	height: 900px;
+	background: #DC5E48;
+	border: 4px solid #ddd;
+	border-radius: 4%;
+
+}
+
 .list{
 	font-family: cursive;
 	font-size: 23px;
